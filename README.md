@@ -22,7 +22,7 @@ PythonProject/
 ```
 
 ## 🔧 环境配置
-
+Anaconda下
 ### Python 版本
 - Python 3.10.20
 
